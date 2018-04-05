@@ -10,7 +10,7 @@
 					
 					<div class="col-md-12 mt-xlg">
 						<div class="heading heading-primary text-center">
-							<h1 class="heading-primary font-nes">Perfil</h1>
+							<h1 class="heading-light font-nes">Perfil</h1>
 						</div>
 					</div>  
 				</div>
@@ -26,7 +26,7 @@
 				<div class="featured-boxes">
 					<div class="row">
 						<div class="col-sm-offset-2 col-sm-8">
-							<div class="featured-box featured-box-primary align-left mt-xlg">
+							<div class="featured-box featured-box-light align-left mt-xlg">
 								<div class="box-content">
 									
 									<div class="row">

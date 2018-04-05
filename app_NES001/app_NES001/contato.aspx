@@ -10,7 +10,7 @@
 					
 					<div class="col-md-12 mt-xlg">
 						<div class="heading heading-primary ">
-							<h1 class="heading-primary text-center font-nes">Contato</h1>
+							<h1 class="heading-light text-center font-nes">Contato</h1>
 						</div>
 					</div>  
 				</div>
@@ -31,7 +31,7 @@
 			<div class="row mt-md" runat="server" id="divMsgAlerta">
 				<div class="col-md-10 col-md-offset-1">
 					
-					<div class="featured-box featured-box-primary align-left mt-xlg">
+					<div class="featured-box featured-box-light align-left mt-xlg">
 						<div class="box-content">
 							<div class="row">
 								<div class="col-md-12 text-left mb-md">
@@ -52,7 +52,7 @@
 									</div>
 								</div>
 								<div class="col-md-12 mb-md text-right">
-									<div class="btn btn-dark btn-xl" id="enviar">Enviar</div>
+									<div class="btn btn-light btn-xl" id="enviar">Enviar</div>
 								</div>
 							</div>				
 						</div>

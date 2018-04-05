@@ -12,7 +12,7 @@
 					
 					<div class="col-md-12 mt-xlg">
 						<div class="heading heading-primary text-center">
-							<h1 class="heading-primary font-nes">Minhas Vendas</h1>
+							<h1 class="heading-light font-nes">Minhas Vendas</h1>
 						</div>
 					</div>  
 				</div>
@@ -52,7 +52,7 @@
 	
 		<div class="row">
 			<div class="col-md-12 ">
-				<section class="featured-box featured-box-primary featured-box-effect-3">
+				<section class="featured-box featured-box-light featured-box-effect-3">
 					<div class="box-content">
 						<div class="fileupload fileupload-new" data-provides="fileupload">
 							<div class="row msg-upload hide ">
@@ -148,7 +148,7 @@
 														<i class="fa fa-upload fileupload-not-exists"></i>
 
 													</div>
-													<span class="fileupload-preview marginauto mt-xs text-color-primary">
+													<span class="fileupload-preview marginauto mt-xs text-color-ligth">
 														Clique em "upload" para salvar sua imagem
 													</span>
 													<span class="btn  btn-default btn-file">
@@ -169,7 +169,7 @@
 									</div>
 									<div class="row">
 										<div class="col-md-12">
-											<button type="submit" id="btn_uploadImg" class="btn btn-dark pull-right">
+											<button type="submit" id="btn_uploadImg" class="btn btn-light pull-right">
 												Enviar
 											</button>
 										</div>
@@ -183,7 +183,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<section class="featured-box featured-box-primary featured-box-effect-3">
+				<section class="featured-box featured-box-light featured-box-effect-3">
 					<div class="box-content pb-md pt-md">
 				
 						<div class="row txtleft">

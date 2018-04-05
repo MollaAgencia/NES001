@@ -3099,7 +3099,7 @@ window.theme.fn = {
 					}
 
 					$html.addClass('sticky-header-active');
-					$('#logochange').attr('src','img/logo-nes-small.jpg');
+                    $('#logochange').attr('src','img/logo_2.png');
 
 					self.options.headerBody.css('top', self.options.stickySetTop);
 
@@ -3116,7 +3116,7 @@ window.theme.fn = {
 				self.deactivateStickyHeader = function() {
 
 					$html.removeClass('sticky-header-active');
-					$('#logochange').attr('src','img/logo-nes.jpg');
+                    $('#logochange').attr('src','img/logo_1.png');
 					self.options.headerBody.css('top', 0);
 
 					if (self.options.stickyChangeLogo) {

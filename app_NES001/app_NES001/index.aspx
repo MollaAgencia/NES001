@@ -9,7 +9,7 @@
         <div id="revolutionSlider" class="slider rev_slider" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 550}">
             <ul>
                 <li data-transition="fade">
-                    <img src="img/slides/fundo.jpg"  
+                    <img src="img/slides/nes001_bannerconquistadores.png"  
                     alt=""
                     data-bgposition="center center" 
                     data-bgfit="cover" 
@@ -22,11 +22,8 @@
                    data-start="1000"
                    data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div> -->
 
-                    <div class="tp-caption top-label"
-                    data-x="527"
-                    data-y="180"
-                    data-start="500"
-                    data-transform_in="y:[-300%];opacity:0;s:500;">AQUI SUAS VENDAS</div>
+
+
 
                    <!--  <div class="tp-caption"
                    data-x="380"
@@ -41,13 +38,11 @@
                     data-whitespace="nowrap"                         
                     data-transform_in="y:[100%];s:500;"
                     data-transform_out="opacity:0;s:500;"
-                    data-mask_in="x:0px;y:0px;">VALEM MAIS</div>
 
                     <div class="tp-caption bottom-label"
                     data-x="445"
                     data-y="280"
                     data-start="2000"
-                    data-transform_in="y:[100%];opacity:0;s:500;">A cada máquina vendida, você é premiado</div>
 
                 </li>
             </ul>
@@ -61,17 +56,16 @@
 
             <div class="row">
                 <div class="col-md-4 col-md-offset-8">
-
-                    <div class="featured-boxes mt-none mb-none">
-                        <div class="featured-box featured-box-primary mt-xl">
-                            <div class="box-content">
+                    <div class="featured-boxes mt-none mb-none ">
+                        <div class="featured-box featured-box-primary mt-xl ">
+                            <div class="box-content background-color-gray">
                                 
                                 <div class="row">
                                     <div class="col-md-12">
                                         <table class="table table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th colspan="3"><h3 class="mb-none text-color-primary">Meu desempenho</h3></th>
+                                                    <th colspan="3"><h3 class="mb-none text-color-light">Meu desempenho</h3></th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -93,14 +87,14 @@
                                                 </tr>
 
                                                 <tr>
-                                                    <td colspan="2" ><b>Pontos conquistados</b></td>
-                                                   <td  class="txtcenter "><h3 class="valign-middle mb-none">400</h3></td>
+                                                    <td colspan="2" class="text-color-light" ><b>Pontos conquistados</b></td>
+                                                   <td  class="txtcenter "><h3 class="valign-middle mb-none  text-color-light">400</h3></td>
                                                 </tr>
                                                 <tr>
                                                     <td colspan="3" class="background-color-light"></td>
                                                 </tr>
                                                 <tr>
-                                                    <td colspan="3" class="no-bordertop"><b>Extrato de resgates</b></td>
+                                                    <td colspan="3" class="no-bordertop text-color-light"><b>Extrato de resgates</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td>10/01/2018</td>
@@ -109,8 +103,8 @@
                                                 </tr>
 
                                                 <tr>
-                                                    <td>11/01/2018</td>
-                                                    <td class="txtcenter">vale Xpto</td>
+                                                    <td class="text-color-light">11/01/2018</td>
+                                                    <td class="txtcenter  text-color-light">vale Xpto</td>
                                                     <td class="txtcenter text-danger">-100</td>
                                                 </tr>
 
@@ -121,8 +115,8 @@
                                                 </tr>
 
                                                 <tr>
-                                                    <td>13/01/2018</td>
-                                                    <td class="txtcenter">vale Xpto</td>
+                                                    <td class="text-color-light">13/01/2018</td>
+                                                    <td class="txtcenter text-color-light">vale Xpto</td>
                                                     <td class="txtcenter text-danger">-50</td>
                                                 </tr>
 
@@ -157,11 +151,11 @@
                 <img src="img/produtos.png" class="img-responsive marginauto" alt="">
                 <!-- <h2 class="pt-sm mb-md">AQUI SUAS VENDAS VALEM MAIS</h2> -->
                 <h3 class="m-none p-none"><small class="text-color-light">Máquinas válidas para campanha:</small></h3>
-                <h3 class=""><small class="text-color-primary">ESSENZA MINI, ESSENZA MINI COMBO, PIXIE CLIPS, PIXIE CLIPS COMBO,<br class="hide-xs"> LATTISSIMA TOUCH, EXPERT E EXPERT COMBO</small></h3>
+                <h3 class=""><small class="text-color-tertiary">ESSENZA MINI, ESSENZA MINI COMBO, PIXIE CLIPS, PIXIE CLIPS COMBO,<br class="hide-xs"> LATTISSIMA TOUCH, EXPERT E EXPERT COMBO</small></h3>
             </div>
 
             <div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0 custom-sm-margin-1 custom-xs-margin-2 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="2000">
-
+        
             </div>
         </div>
     </div>
@@ -171,7 +165,7 @@
         <div class="featured-box-full featured-box-full-dark ">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 mb-xlg">
-                    <img src="img/icons/icones1.png" class="img-responsive marginauto" alt="">
+                    <img src="img/icons/icones-01_1024.png" class="img-responsive marginauto" alt="">
                 </div>
             </div>
             <!-- <i class="fa fa-group"></i> -->
@@ -187,7 +181,7 @@
         <div class="featured-box-full featured-box-full-dark ">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 mb-xlg">
-                    <img src="img/icons/icones2.png" class="img-responsive marginauto" alt="">
+                    <img src="img/icons/icones-02_1024.png" class="img-responsive marginauto" alt="">
                 </div>
             </div>
             <!-- <i class="fa fa-film"></i> -->
@@ -203,7 +197,7 @@
         <div class="featured-box-full featured-box-full-dark ">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 mb-xlg">
-                    <img src="img/icons/icones3.png" class="img-responsive marginauto" alt="">
+                    <img src="img/icons/icones-03_1024.png" class="img-responsive marginauto" alt="">
                 </div>
             </div>
             <!-- <i class="fa fa-trophy"></i> -->
@@ -219,7 +213,7 @@
         <div class="featured-box-full featured-box-full-dark ">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 mb-xlg">
-                    <img src="img/icons/icones4.png" class="img-responsive marginauto" alt="">
+                    <img src="img/icons/icones-04_1024.png" class="img-responsive marginauto" alt="">
                 </div>
             </div>
             <!-- <i class="fa fa-cogs"></i> -->
@@ -237,7 +231,7 @@
     <div class="row">
         <div class="col-md-12 txtcenter mt-xlg">
             <div class="btn btn-dark no-border mt-md">
-                <a href="minhasvendas.aspx"><h3 class="m-none p-none font-nes text-color-primary">CLIQUE AQUI E CADASTRE SUAS VENDAS</h3></a>
+                <a href="minhasvendas.aspx"><h3 class="m-none p-none font-nes text-color-light">CLIQUE AQUI E CADASTRE SUAS VENDAS</h3></a>
             </div>
         </div>            
     </div>

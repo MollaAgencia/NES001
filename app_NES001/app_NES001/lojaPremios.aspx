@@ -10,7 +10,7 @@
 					
 					<div class="col-md-12 mt-xlg">
 						<div class="heading heading-primary ">
-							<h1 class="heading-primary text-center font-nes">Loja de Prêmios</h1>
+							<h1 class="heading-light text-center font-nes">Loja de Prêmios</h1>
 						</div>
 					</div>  
 				</div>
@@ -25,7 +25,7 @@
 			<div class="col-md-4 col-md-offset-8">
 
 				<div class="featured-boxes mt-none mb-none">
-					<div class="featured-box featured-box-primary mt-xl">
+					<div class="featured-box featured-box-light mt-xl">
 						<div class="box-content">
 
 							<div class="row">
@@ -33,7 +33,7 @@
 									<table class="table table-striped">
 										<thead>
 											<tr>
-												<th colspan="3" class="txtcenter"><h3 class="mb-none text-color-primary">Saldo</h3></th>
+												<th colspan="3" class="txtcenter"><h3 class="mb-none text-color-light">Saldo</h3></th>
 											</tr>
 										</thead>
 										<tbody>

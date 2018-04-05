@@ -9,8 +9,8 @@
 				<div class="row">				
 					
 					<div class="col-md-12 mt-xlg">
-						<div class="heading heading-primary text-center">
-							<h1 class="heading-primary font-nes">Regulamento</h1>
+						<div class="heading heading-light text-center">
+							<h1 class="heading-light font-nes">Regulamento</h1>
 						</div>
 					</div>  
 				</div>
@@ -33,10 +33,10 @@
 	
 	                    <div class="col-md-10 col-md-offset-1">
 	                       
-	                        <div class="featured-box featured-box-primary align-left mt-xlg">
+	                        <div class="featured-box featured-box-light align-left mt-xlg">
 	                         
-	                            <div class="box-content">
-	                            	<h5>Regulamento</h5>
+	                            <div class="box-conten">
+	                            	<h5 class="text-color-light">Regulamento</h5>
 	                            	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis consequuntur eum cum rem laboriosam minus autem excepturi amet at, quisquam fugit provident voluptatibus id officia, molestias accusantium ex! Harum, accusantium.
 	                            		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis consequuntur eum cum rem laboriosam minus autem excepturi amet at, quisquam fugit provident voluptatibus id officia, molestias accusantium ex! Harum, accusantium.
 	                            		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis consequuntur eum cum rem laboriosam minus autem excepturi amet at, quisquam fugit provident voluptatibus id officia, molestias accusantium ex! Harum, accusantium.

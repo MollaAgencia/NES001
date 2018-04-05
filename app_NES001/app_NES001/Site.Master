@@ -76,9 +76,9 @@
 							<div class="header-column">
 								<div class="header-logo pos_absolute " >
 									<a href="index.aspx">
-										<img alt="Porto"  width="250" class="hidden-xs" id="logochange"  data-sticky-width="12" src="img/logo-nes.jpg">									</a>
+										<img alt="Porto"  width="250" class="hidden-xs" id="logochange"  data-sticky-width="12" src="img/logo_1.png">									</a>
 										<a href="index.aspx">
-										<img alt="Porto"  width="250" class="hidden-sm hidden-md hidden-lg"   data-sticky-width="12" src="img/logo-nes-small.jpg">									</a>
+										<img alt="Porto"  width="250" class="hidden-sm hidden-md hidden-lg"  data-sticky-width="12" src="img/logo_2.png">									</a>
 										<!-- <img alt="Porto" width="250"  data-sticky-width="82" data-sticky-height="82" data-sticky-top="290" src="img/logo-nes-small.jpg"> -->									
 								</div>
 							</div>
@@ -137,7 +137,7 @@
 														</a>
 
 														<ul class="dropdown-menu">
-															<li><a href="perfil.aspx"><i class="mr-md fa fa-info"></i>Perfil </a> </li>
+															<li class="text-color-light"><a href="perfil.aspx"><i class="mr-md fa fa-info"></i>Perfil </a> </li>
 															<li><a href="trocaSenha.aspx"  data-toggle="modal" data-target="#largeModal" tabindex="-1" ><i class="mr-md fa fa-info"></i>Troca senha </a> </li>
 															<li><a href="login.aspx"><i class="mr-md fa fa-info"></i>Sair </a> </li>
 														</ul>
