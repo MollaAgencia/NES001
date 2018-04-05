@@ -1,0 +1,4 @@
+DocProject/**/*.sln
+DocProject/obj/*
+DocProject/bin/*
+DocProject/.vs/*
